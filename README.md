@@ -1,6 +1,6 @@
 # Piyush Zaware
 
-I am a Master of Public Policy student at the University of Chicago’s Harris School of Public Policy, specializing in Data Analytics. I am interested in research that focuses on topics utilising micro level data with advanced econmetrics or machine learning methods. I am interested in topics realted to applied economics.
+I am a Master of Public Policy student at the University of Chicago’s Harris School of Public Policy, specializing in Data Analytics. I am interested in research that focuses on topics utilising micro level data with advanced econmetrics or machine learning methods. I am interested in topics related to applied economics.
 
 ## Recent work
 
