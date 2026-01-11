@@ -20,7 +20,7 @@ My quantitative training spans econometrics, causal inference, machine learning,
 Across projects, my goal is simple but demanding: to produce research that is empirically rigorous, transparent, and grounded in real institutional constraints. I am especially drawn to research environments that value methodological discipline, interdisciplinary collaboration, and close engagement with policymakers. Looking ahead, I plan to pursue a research-oriented career in applied economics and public policy.
 </p>
 
-## Writing & Public Commentary
+## ✍️ Writing & Public Commentary
 
 <p align="justify">
 When I am not knee-deep in datasets or wrestling with identification assumptions, I enjoy writing about Indian politics and public policy for a broader audience. I have authored blogs and opinion pieces in Indian newspapers and digital platforms, focusing on India’s social fabric, electoral dynamics, and policy debates, often using data to cut through rhetoric and intuition.
