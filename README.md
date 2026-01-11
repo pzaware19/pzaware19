@@ -1,7 +1,7 @@
 # Hi 👋, I am Piyush Zaware
 
 <p align="justify">
-I am a Master of Public Policy student at the University of Chicago’s Harris School of Public Policy, specializing in Data Analytics. I am interested in applied economic research that uses rich micro-level data and careful empirical design to answer policy-relevant questions, especially at the intersection of human capital, institutions, and political economy.
+I am a Master of Public Policy student at the University of Chicago’s Harris School of Public Policy, specializing in Data Analytics. I am interested in applied economic research that uses rich micro-level data and careful empirical design to answer policy-relevant questions, especially at the intersection of human capital, talent miss-allocation firm dynamics and growth.
 </p>
 
 <p align="justify">
