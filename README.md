@@ -31,7 +31,7 @@ My writing sits at the intersection of data and democracy. Whether examining vot
 </p>
 
 <blockquote>
-<em>“If you torture the data long enough, it will confess.”</em> — Ronald Coase
+<em>“We have not succeeded in answering all our problems. The answers we have found only serve to raise a whole set of new questions. In some ways we feel we are as confused as ever, but we believe we are confused on a higher level and about more importatnt things.”
 </blockquote>
 
 <p align="justify">
