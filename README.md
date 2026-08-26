@@ -74,7 +74,7 @@ You can find a selection of my opinion articles and blogs below, where I occasio
 
 ## Reach me
 
-📧 <a href="mailto:piyushz@uchicago.edu">piyushz@uchicago.edu</a>  
+📧 <a href="mailto:piyush.zaware@kellogg.northwestern.edu">piyush.zaware@kellogg.northwestern.edu</a>  
 🔗 <a href="https://www.linkedin.com/in/piyush-zaware">LinkedIn</a>  
 🌐 <a href="https://pzaware19.github.io">Website</a>
 
