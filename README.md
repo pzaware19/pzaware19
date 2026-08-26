@@ -5,7 +5,7 @@ I am a Master of Public Policy student at the University of Chicago’s Harris S
 </p>
 
 <p align="justify">
-I currently work as a Research Assistant at the Center for the Economics of Human Development, where I study family structure, intergenerational mobility, and the long-run impacts of early childhood interventions using large-scale panel data such as IPUMS-CPS and the NLSY79/CNLSY. My work combines applied econometrics with psychometric methods, including structural equation modeling and confirmatory factor analysis, to model latent cognitive and non-cognitive skill formation across randomized control trials in the United States, Jamaica, China, and Ireland.
+I currently work as a Pre-Doctoral Researcher at the Global Poverty Research Laboratory, Kellogg School of Management, Northwestern University, in the Research Methods Cluster, where I work on research design, measurement, and data quality in development economics, including a collaboration with the World Bank's Living Standards Measurement Study (LSMS) team on household definitions research. I previously worked as a Research Assistant at the Center for the Economics of Human Development, where I studied family structure, intergenerational mobility, and the long-run impacts of early childhood interventions using large-scale panel data such as IPUMS-CPS and the NLSY79/CNLSY. My work combined applied econometrics with psychometric methods, including structural equation modeling and confirmatory factor analysis, to model latent cognitive and non-cognitive skill formation across randomized control trials in the United States, Jamaica, China, and Ireland.
 </p>
 
 <p align="justify">
